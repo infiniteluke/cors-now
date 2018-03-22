@@ -8,7 +8,7 @@
 __Just do a `fetch` on the below:__
 
 ```
-https://cors.now.sh/<url>
+https://cors-new.now.sh/<url>
 ```
 
 __Example:__
